@@ -1,2 +1,0 @@
-const API_ID = "9aaaf56f";
-const API_KEY = "b62aab3e440ee952b03bf137ff0d40d8";
