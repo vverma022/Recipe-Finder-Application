@@ -13,7 +13,7 @@ A recipe fidner application which lets you find recipes of your choice to make a
 
 ## Screenshots
 
-
+![Alt text](assets/Screenshot 2024-05-29 at 7.45.29 PM.png)
 
 
 ## API Reference
