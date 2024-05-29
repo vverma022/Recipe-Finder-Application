@@ -1,11 +1,12 @@
-import { useState } from 'react'
-import header from './components/header'
+
 import Header from './components/header'
+import RecipeList from './components/recipeList'
 
 function App() {
   return (
       <div>
-        <Header></Header>
+        <Header />
+        <RecipeList />
       </div>
   )
 }
