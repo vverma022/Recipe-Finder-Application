@@ -7,13 +7,14 @@ A recipe fidner application which lets you find recipes of your choice to make a
 ## Tech Stack
 
 **Client:** React, 
-Tailwind-CSS, Axios
+Tailwind-CSS, Axios, React-Router-Dom
 
 **API:** EDAMAM
 
 
 ## Screenshots
 
+<img width="1241" alt="Screenshot 2024-05-29 at 7 45 29 PM" src="https://github.com/vverma022/Recipe-Finder-Application/assets/109036913/e3b99455-d183-400b-ad75-dc6f669d61f0">
 
 
 
